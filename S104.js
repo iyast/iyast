@@ -49,7 +49,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'אכלתי גלידה ברחובות ונציה'},
 					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
 					{word: 'האכלתי ברווזים בתעלה'},
-					{word: 'ראיתי מבנים צבועניים בשיט'}
+					{word: 'ראיתי מבנים צבעוניים בשייט'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
